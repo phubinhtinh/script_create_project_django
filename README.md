@@ -1,0 +1,1 @@
+# script_create_project_django
